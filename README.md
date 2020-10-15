@@ -2,7 +2,7 @@
 ## In this project, I have a sample input text file consisting of Doc IDs and sentences. Based on this provided input text file, I built my own inverted index using the data. The index is stored as a Linked List in memory. Having built this index, I implemented a Document-at-a-time (DAAT) strategy to return Boolean query results(AND and OR).
 
 ## Input Dataset
-input_corpus.txt is a tab-delimited file where each line is a document; the first field is
+Project_Dryrun_Corpus.txt is a tab-delimited file where each line is a document; the first field is
 the document ID, and the second is a sentence. The two fields are separated by a tab.
 
 ## Follwing are the steps followed:
